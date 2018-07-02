@@ -2,11 +2,4 @@ Git is a version control system.
 Git is free software.
 Git is a distributed version control system.
 Git is free software.
-####<<<<<<< HEAD
-####i will change this error
-####=======
-####i will make a error
-####>>>>>>> issues_7.2
-
-i save two changes
-i will add some for sec
+i will make a error && i will change again
