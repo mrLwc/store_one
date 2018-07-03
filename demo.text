@@ -3,3 +3,8 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software.
 i will make a error && i will change again
+
+git remote rm origin
+
+git remote add github git@github.com:michaelliao/learngit.git
+git remote add gitee git@gitee.com:liaoxuefeng/learngit.git
